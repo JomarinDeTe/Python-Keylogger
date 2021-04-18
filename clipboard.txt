@@ -1,0 +1,24 @@
+Clipboard data: 
+192.168.100.49Clipboard data: 
+count = 0
+Clipboard data: 
+count = 0
+Clipboard data: 
+count = 0
+Clipboard data: 
+count = 0
+Clipboard data: 
+count = 0
+Clipboard data: 
+count = 0
+Clipboard data: 
+keys_information2 = "system.info.txt"Clipboard couldn't copyClipboard couldn't copyClipboard couldn't copyClipboard couldn't copyClipboard couldn't copyClipboard couldn't copyClipboard couldn't copyClipboard data: 
+elif k.find("backspace"):
+                f.write('backspace')
+                f.close()Clipboard data: 
+ elif k.find("backspace"):
+                f.write('backspace')
+                f.close()Clipboard data: 
+ elif k.find("backspace"):
+                f.write('backspace')
+                f.close()
